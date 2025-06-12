@@ -12,7 +12,7 @@
         "traffic_state": "moderate",
         "timestamp": "2025-06-04T09:00:00Z",
         "link": "https://plidev.evosmartlife.net:3000/api/hassio_ingress/6tU-y2a86sX5Vu1agUiTzgUTlJWOZL81yWodqBBmUHs/public-dashboards/53de1054df9640e7a8e6237aad351199",
-        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=2.475104995450806&panoid=vdVjfESB5uVf-FcF0yrY4w&yaw=287.6454808935387"
+        "popup": "<b>Jalan Jalur Sutera Barat</b><br>Traffic: moderate<br><img src='https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=2.475104995450806&panoid=vdVjfESB5uVf-FcF0yrY4w&yaw=287.6454808935387' width='250'><br><a href='https://plidev.evosmartlife.net:3000/api/hassio_ingress/6tU-y2a86sX5Vu1agUiTzgUTlJWOZL81yWodqBBmUHs/public-dashboards/53de1054df9640e7a8e6237aad351199' target='_blank'>Open Dashboard</a>"
       }
     }
   ]
