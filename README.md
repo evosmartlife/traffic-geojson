@@ -6,11 +6,9 @@ This repository provides sample **GeoJSON traffic-related data** for development
 
 ```
 .
-├── data/
-│   ├── jakarta_traffic_sample.geojson
-│   ├── newyork_mock_flow.geojson
-│   └── ...
-├── LICENSE
+├── alam_sutera_traffic_3.geojson
+├── incident.geojson
+├── intersection.geojson
 └── README.md
 ```
 
