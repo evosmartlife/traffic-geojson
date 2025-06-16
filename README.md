@@ -12,7 +12,7 @@ This repository provides sample **GeoJSON traffic-related data** for development
 └── README.md
 ```
 
-- `data/` contains the actual `.geojson` files.
+- `.geojson` files contain sample traffic scenarios.
 - Each file is formatted to comply with the [GeoJSON specification](https://datatracker.ietf.org/doc/html/rfc7946).
 
 ## 📌 Features Included in Mock Data
